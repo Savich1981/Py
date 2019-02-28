@@ -8,4 +8,4 @@ else:
     print('Greetings!')
 
 while True:
-    print('Fuck off')
+    print('')
