@@ -10,7 +10,7 @@ def getAnswer(answerNumber):
     elif answerNumber == 4:
         return 'Replay hazy try again'
     elif answerNumber == 5:
-        return 'Ask again later
+        return 'Ask again later'
     elif answerNumber == 6:
         return 'Concetraine and ask again'
     elif answerNumber == 7:
