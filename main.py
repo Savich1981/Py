@@ -1,0 +1,1 @@
+print(int('PY are installed' * 10))
