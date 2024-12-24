@@ -1,0 +1,7 @@
+#print("\nHello world!\nHello world!\nHello world!\n")
+#Alexamderprint("Hello" + " " + "Alex")
+name = input("What is your name? ")
+print(name)
+len = str(len(name))
+print("Длина твого сраного ім'я = " + len)
+#print("Hello " + input("What is your name?")+ "!")
